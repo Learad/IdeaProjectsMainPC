@@ -2,7 +2,7 @@ package oppgaver;
 
 import javax.swing.*;
 
-class Bøker{
+class Bøker2{
     public String tittel;
     public double pris;
     public String forfatter;
@@ -13,13 +13,13 @@ class Bøker{
     }
 }
 
-public class Oppgave1 {
+public class Oppgave2 {
     public static void main(String[] args) {
-        Bøker bok = new Bøker();
-        bok.tittel = "Lord of the rings";
-        bok.pris = 199.00;
-        bok.forfatter = "Tolkien";
-        bok.iSBN_Nummer = "321234";
+        Bøker2 bok = new Bøker2();
+        bok.tittel = JOptionPane.showInputDialog("tittel til bok");
+        bok.pris = Double.parseDouble(JOptionPane.showInputDialog("pris til bok"));
+        bok.forfatter = JOptionPane.showInputDialog("forfatter til bok");
+        bok.iSBN_Nummer = JOptionPane.showInputDialog("iSBN-nummer");
 
         bok.skrivUtAttributter();
 
