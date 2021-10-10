@@ -9,7 +9,6 @@ class BøkerNy{
     public void skrivUtAttributter(){
         System.out.println("\nBok: " + bok + "\nForfatter: " + forfatter + " \npris: " + pris + "kr \niSBN-Nummer: " +iSBNNumber);
     }
-
 }
 
 public class Oppgave1forsøk2 {
