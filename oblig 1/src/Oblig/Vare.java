@@ -13,3 +13,5 @@ public class Vare {
     // metode for å beregne totalpris (pris * antall)
 
 }
+
+public class
