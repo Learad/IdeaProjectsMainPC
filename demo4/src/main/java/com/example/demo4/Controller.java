@@ -29,7 +29,7 @@ public class Controller {
         lblResultat.setText("Totalbeløpet etter " + år + " år blir " + String.format("%.2f", resultat));}
 
             catch(Exception e){
-                lblResultat.setText("Skriv inn tall i alle feltene!");
+                lblResultat.setText("Skriv inn tall i alle feltene.");
         }
 
 
