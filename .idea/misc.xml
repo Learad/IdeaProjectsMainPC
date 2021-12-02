@@ -4,10 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo/javaFX/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/modul 5/out" />
+    <output url="file://$PROJECT_DIR$/alleModuler/modul 5/out" />
   </component>
 </project>

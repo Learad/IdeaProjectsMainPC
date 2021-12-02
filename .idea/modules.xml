@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eksamen/Eksamen.iml" filepath="$PROJECT_DIR$/Eksamen/Eksamen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/javaFX/javaFX.iml" filepath="$PROJECT_DIR$/demo/javaFX/javaFX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 10/modul 10.iml" filepath="$PROJECT_DIR$/modul 10/modul 10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 5/modul 5.iml" filepath="$PROJECT_DIR$/modul 5/modul 5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 7/modul 7.iml" filepath="$PROJECT_DIR$/modul 7/modul 7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 8/modul 8.iml" filepath="$PROJECT_DIR$/modul 8/modul 8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 9/modul 9.iml" filepath="$PROJECT_DIR$/modul 9/modul 9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modul 6 klasser og objekter/modul6.iml" filepath="$PROJECT_DIR$/modul 6 klasser og objekter/modul6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oblig 1/oblig 1.iml" filepath="$PROJECT_DIR$/oblig 1/oblig 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/JavaFX.iml" filepath="$PROJECT_DIR$/JavaFX/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/alleModuler.iml" filepath="$PROJECT_DIR$/alleModuler/alleModuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/demo/javaFX/javaFX.iml" filepath="$PROJECT_DIR$/JavaFX/demo/javaFX/javaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFX/javaFXModul.iml" filepath="$PROJECT_DIR$/javaFX/javaFXModul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 10/modul 10.iml" filepath="$PROJECT_DIR$/alleModuler/modul 10/modul 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 5/modul 5.iml" filepath="$PROJECT_DIR$/alleModuler/modul 5/modul 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 7/modul 7.iml" filepath="$PROJECT_DIR$/alleModuler/modul 7/modul 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 8/modul 8.iml" filepath="$PROJECT_DIR$/alleModuler/modul 8/modul 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 9/modul 9.iml" filepath="$PROJECT_DIR$/alleModuler/modul 9/modul 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul12/modul12.iml" filepath="$PROJECT_DIR$/alleModuler/modul12/modul12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/modul 6 klasser og objekter/modul6.iml" filepath="$PROJECT_DIR$/alleModuler/modul 6 klasser og objekter/modul6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alleModuler/oblig 1/oblig 1.iml" filepath="$PROJECT_DIR$/alleModuler/oblig 1/oblig 1.iml" />
     </modules>
   </component>
 </project>
